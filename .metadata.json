@@ -1,0 +1,14 @@
+[
+  {
+    "package": "amerika",
+    "oncran": true
+  },
+  {
+    "package": "hdImpute",
+    "oncran": true
+  },
+  {
+    "package": "plotmm",
+    "oncran": true
+  }
+]
