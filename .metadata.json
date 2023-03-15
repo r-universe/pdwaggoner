@@ -8,7 +8,15 @@
     "oncran": true
   },
   {
+    "package": "mlbstats",
+    "oncran": true
+  },
+  {
     "package": "plotmm",
+    "oncran": true
+  },
+  {
+    "package": "purging",
     "oncran": true
   }
 ]

@@ -13,8 +13,18 @@
 	url = https://github.com/pdwaggoner/hdimpute
 	shallow = true
 	registered = true
+[submodule "mlbstats"]
+	path = mlbstats
+	url = https://github.com/pdwaggoner/mlbstats
+	shallow = true
+	registered = true
 [submodule "plotmm"]
 	path = plotmm
 	url = https://github.com/pdwaggoner/plotmm
+	shallow = true
+	registered = true
+[submodule "purging"]
+	path = purging
+	url = https://github.com/pdwaggoner/purging
 	shallow = true
 	registered = true
