@@ -8,13 +8,13 @@
 	url = https://github.com/pdwaggoner/amerika
 	shallow = true
 	registered = true
-[submodule "plotmm"]
-	path = plotmm
-	url = https://github.com/pdwaggoner/plotmm
-	shallow = true
-	registered = true
 [submodule "hdImpute"]
 	path = hdImpute
 	url = https://github.com/pdwaggoner/hdimpute
+	shallow = true
+	registered = true
+[submodule "plotmm"]
+	path = plotmm
+	url = https://github.com/pdwaggoner/plotmm
 	shallow = true
 	registered = true
