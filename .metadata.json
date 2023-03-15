@@ -4,11 +4,11 @@
     "oncran": true
   },
   {
-    "package": "hdImpute",
+    "package": "plotmm",
     "oncran": true
   },
   {
-    "package": "plotmm",
+    "package": "hdImpute",
     "oncran": true
   }
 ]
