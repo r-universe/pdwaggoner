@@ -18,6 +18,11 @@
 	url = https://github.com/pdwaggoner/mlbstats
 	shallow = true
 	registered = true
+[submodule "plotGMM"]
+	path = plotGMM
+	url = https://github.com/cran/plotGMM
+	shallow = true
+	registered = true
 [submodule "plotmm"]
 	path = plotmm
 	url = https://github.com/pdwaggoner/plotmm
