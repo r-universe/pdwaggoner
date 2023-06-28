@@ -1,35 +1,22 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "amerika"]
 	path = amerika
 	url = https://github.com/pdwaggoner/amerika
-	shallow = true
-	registered = true
 [submodule "hdImpute"]
 	path = hdImpute
 	url = https://github.com/pdwaggoner/hdimpute
-	shallow = true
-	registered = true
 [submodule "mlbstats"]
 	path = mlbstats
 	url = https://github.com/pdwaggoner/mlbstats
-	shallow = true
-	registered = true
 [submodule "plotGMM"]
 	path = plotGMM
 	url = https://github.com/cran/plotGMM
-	shallow = true
-	registered = true
 [submodule "plotmm"]
 	path = plotmm
 	url = https://github.com/pdwaggoner/plotmm
-	shallow = true
-	registered = true
 [submodule "purging"]
 	path = purging
 	url = https://github.com/pdwaggoner/purging
-	shallow = true
-	registered = true
